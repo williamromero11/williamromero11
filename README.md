@@ -6,7 +6,7 @@ Entry-level IT and cybersecurity professional with hands-on experience in IT sup
 
 🎓 B.S. in Information Technology — University of Central Florida (Apr 2026).
 
-✅ CompTIA Security+ | AWS Cloud Security Foundations | TestOut IT Fundamentals Pro | AWS Cloud  Foundations | Verification: https://www.credly.com/badges/5ddd78f0-adaa-4023-b14f-14506e032444
+✅ CompTIA Security+ | AWS Cloud Security Foundations | TestOut IT Fundamentals Pro | AWS Cloud  Foundations | [Verification:](https://www.credly.com/badges/5ddd78f0-adaa-4023-b14f-14506e032444)
 
 🔐 United States citizen, eligible for security clearance
 
@@ -18,9 +18,7 @@ Entry-level IT and cybersecurity professional with hands-on experience in IT sup
 
 ## 🤝 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/william-romero-pirela/
-- GitHub: https://github.com/williamromero11
-
 [<img align="left" alt="William Romero | LinkedIn" width="22px"
 src="https://commons.wikimedia.org/wiki/Special:FilePath/LinkedIn_icon.svg?width=64" />](https://www.linkedin.com/in/william-romero-pirela/)
-
+[<img align="left" alt="William Romero | GitHub" width="22px"
+src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />](https://github.com/williamromero11)
