@@ -14,8 +14,7 @@ Entry-level IT and cybersecurity professional with hands-on experience in IT sup
 
 ### [Linux Active Directory & System Administration Lab](https://github.com/williamromero11/linux-active-directory-lab)
 A hands-on lab simulating enterprise identity and access management in a multi-server virtualized environment. 
-- 
-- 
+
 
 ## 🤝 Connect with me
 
