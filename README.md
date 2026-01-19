@@ -12,13 +12,17 @@ Entry-level IT and cybersecurity professional with hands-on experience in IT sup
 
 ## 👨‍💻 Projects
 
-- Project 1 — short description 
-- Project 2 — short description
-- Project 3 — short description
+### [Linux Active Directory & System Administration Lab](https://github.com/williamromero11/linux-active-directory-lab)
+A hands-on lab simulating enterprise identity and access management in a multi-server virtualized environment. 
+- 
+- 
 
 ## 🤝 Connect with me
 
-[<img align="left" alt="William Romero | LinkedIn" width="22px"
-src="https://commons.wikimedia.org/wiki/Special:FilePath/LinkedIn_icon.svg?width=64" />](https://www.linkedin.com/in/william-romero-pirela/)
-[<img align="left" alt="William Romero | GitHub" width="22px"
-src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />](https://github.com/williamromero11)
+[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />](https://www.linkedin.com/in/william-romero-pirela/)
+[<img align="left" alt="GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" />](https://github.com/williamromero11)
+[<img align="left" alt="Email" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" />](mailto:wi424039@ucf.edu)
+<br><br>
+📧 **Email:** wi424039@ucf.edu  
+📍 **Location:** Orlando, FL  
+🛡️ **Clearance:** Eligible for U.S. security clearance
