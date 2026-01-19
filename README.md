@@ -12,7 +12,7 @@ Entry-level IT and cybersecurity professional with hands-on experience in IT sup
 
 ## 👨‍💻 Security Labs & Competitions
 
-### [Linux Active Directory & System Administration Lab](https://github.com/williamromero11/linux-active-directory-lab)
+### [Linux Active Directory & System Administration Lab](https://github.com/williamromero11/linux-active-directory-lab) | November 2025
 A hands-on lab simulating enterprise identity and access management in a multi-server virtualized environment. This hands-on lab demonstrates the deployment and management of a Linux-based Active Directory environment in a virtualized, multi-server setup. Using Samba AD, Kerberos, DNS, and NTP, I configured a domain controller to simulate enterprise-level identity and access management. The project emphasized security best practices, including least-privilege access, automated administration via Bash and PowerShell scripts, and validation of directory services through structured testing. This lab reflects practical skills in system administration, security hardening, and infrastructure automation — core competencies for roles in cybersecurity, IT operations, and cloud administration.
 
 ### [HACK@UCF Cyber Challenge CTF](https://hackucf.org/ctf) | February 2025  
