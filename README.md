@@ -6,7 +6,7 @@ Entry-level IT and cybersecurity professional with hands-on experience in IT sup
 
 🎓 B.S. in Information Technology — University of Central Florida (Apr 2026).
 
-✅ CompTIA Security+ | AWS Cloud Security Foundations | TestOut IT Fundamentals Pro | AWS Cloud  Foundations | [Verification:](https://www.credly.com/users/william-romero.9412f593/badges#credly)
+✅ [CompTIA Security+](https://www.credly.com/users/william-romero.9412f593/badges#credly) | [AWS Cloud Security Foundations](https://www.credly.com/users/william-romero.9412f593/badges#credly) | [TestOut IT Fundamentals Pro](https://certification.testout.com/managecert?certificateID=6-1C6-VPU5M2) | [AWS Cloud  Foundations](https://www.credly.com/users/william-romero.9412f593/badges#credly) | 
 
 🔐 United States citizen, eligible for security clearance
 
