@@ -20,3 +20,7 @@ Entry-level IT and cybersecurity professional with hands-on experience in IT sup
 
 - LinkedIn: https://www.linkedin.com/in/william-romero-pirela/
 - GitHub: https://github.com/williamromero11
+
+[<img align="left" alt="William Romero | LinkedIn" width="22px"
+src="https://commons.wikimedia.org/wiki/Special:FilePath/LinkedIn_icon.svg?width=64" />](https://www.linkedin.com/in/william-romero-pirela/)
+
