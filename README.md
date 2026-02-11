@@ -12,7 +12,7 @@ I am an entry level IT and cybersecurity student currently completing my degree 
 
 ## 👨‍💻 Security Labs & Competitions
 
-### [Welcome to My Portfolio]
+### Welcome to my portfolio
 I am an entry level IT and cybersecurity student currently completing my degree in Information Technology. My interests focus on system administration, network security, and defensive security operations. I am looking for an internship or junior role where I can contribute to maintaining secure systems, supporting network operations, and assisting with incident response while continuing to grow my technical skills.
 
 About Me
