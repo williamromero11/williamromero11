@@ -58,7 +58,9 @@ C, C++, Java, Python, Bash, PowerShell
 
 ### 🌍 Languages
 
-Native Spanish, Fluent English
+-Native Spanish, 
+
+-Fluent English
 
 ### 👨‍💻 Security Labs & Competitions
 ### [OCPS Cyber Challenge](https://www.linkedin.com/posts/william-romero-pirela_hack-cybersecurity-ctf-activity-7423359165286461440-B_-r/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSV9AkBQJmlEWSSmo9R5VMU2-zVcDD8LV0) | January 2026
