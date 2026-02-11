@@ -29,7 +29,7 @@ Expected Graduation: This semester
 Future Plans: I plan to pursue a Master’s degree in Cybersecurity after completing my undergraduate studies.
 Certifications: CompTIA Security+ | AWS Cloud Security Foundations | TestOut IT Fundamentals Pro | AWS Cloud Foundations |
 Technical Skills
-🛡️ Security & Cybersecurity
+### 🛡️ Security & Cybersecurity
 
 Network security protocols (TCP/IP, DHCP, DNS, VPN)
 Penetration testing methodologies and CTF exercises
@@ -37,7 +37,8 @@ System hardening techniques and access control enforcement
 Secure handling of sensitive data and chain-of-custody procedures
 Patch management and policy compliance
 Cloud infrastructure security (AWS fundamentals, virtualization)
-🖥️ Systems & IT Administration
+
+### 🖥️ Systems & IT Administration
 
 User account management, group policies, and permissions
 Linux system administration (Parrot OS, Kali Linux, Ubuntu)
