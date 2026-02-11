@@ -22,7 +22,7 @@ Outside of academics, I enjoy strategy driven games such as Elden Ring, The Witc
 
 I try to apply these habits of careful analysis, attention to detail, and ethical thinking to my academic and technical work.
 
-#🎓 Education Journey
+🎓 Education Journey
 University: University of Central Florida (UCF) - Pursuing B.S. in Information Technology
 Specialization: Networks and Cybersecurity
 Expected Graduation: This semester
