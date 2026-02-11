@@ -31,12 +31,12 @@ Certifications: CompTIA Security+ | AWS Cloud Security Foundations | TestOut IT 
 Technical Skills
 ### 🛡️ Security & Cybersecurity
 
-Network security protocols (TCP/IP, DHCP, DNS, VPN)
-Penetration testing methodologies and CTF exercises
-System hardening techniques and access control enforcement
-Secure handling of sensitive data and chain-of-custody procedures
-Patch management and policy compliance
-Cloud infrastructure security (AWS fundamentals, virtualization)
+-Network security protocols (TCP/IP, DHCP, DNS, VPN)
+-Penetration testing methodologies and CTF exercises
+-System hardening techniques and access control enforcement
+-Secure handling of sensitive data and chain-of-custody procedures
+-Patch management and policy compliance
+-Cloud infrastructure security (AWS fundamentals, virtualization)
 
 ### 🖥️ Systems & IT Administration
 
