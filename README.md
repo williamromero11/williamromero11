@@ -77,6 +77,10 @@ Competed in a scenario based Capture the Flag event focused on enterprise breach
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />](https://www.linkedin.com/in/william-romero-pirela/)
 [<img align="left" alt="GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" />](https://github.com/williamromero11)
 [<img align="left" alt="Email" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" />](mailto:wi424039@ucf.edu)
+[<img align="left" alt="Website" width="28px" 
+src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/githubpages.svg" />]
+(https://williamromero11.github.io/)
+
 <br><br>
 📧 **Email:** wi424039@ucf.edu  
 📍 **Location:** Orlando, FL  
