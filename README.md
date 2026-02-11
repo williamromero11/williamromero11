@@ -15,21 +15,21 @@ I am an entry level IT and cybersecurity student currently completing my degree 
 ### Welcome to my portfolio
 I am an entry level IT and cybersecurity student currently completing my degree in Information Technology. My interests focus on system administration, network security, and defensive security operations. I am looking for an internship or junior role where I can contribute to maintaining secure systems, supporting network operations, and assisting with incident response while continuing to grow my technical skills.
 
-About Me
+#About Me
 I am a 24 year old IT and cybersecurity student originally from Venezuela and currently living in Orlando, Florida. I have been interested in technology from a young age, particularly how systems interact and how they can be protected from misuse or attack. This interest naturally led me to building custom PCs, where I focus on reliability, performance, and security in each build.
 
 Outside of academics, I enjoy strategy driven games such as Elden Ring, The Witcher 3, and Baldur’s Gate 3. These games reinforce skills that translate well to cybersecurity, including persistence, critical thinking, and problem solving under pressure. I am also an avid reader of epic fantasy, especially A Song of Ice and Fire by George R. R. Martin. The complexity of its world building and interconnected systems mirrors how I approach technical environments and security challenges.
 
 I try to apply these habits of careful analysis, attention to detail, and ethical thinking to my academic and technical work.
 
-🎓 Education Journey
+#🎓 Education Journey
 University: University of Central Florida (UCF) - Pursuing B.S. in Information Technology
 Specialization: Networks and Cybersecurity
 Expected Graduation: This semester
 Future Plans: I plan to pursue a Master’s degree in Cybersecurity after completing my undergraduate studies.
 Certifications: CompTIA Security+ | AWS Cloud Security Foundations | TestOut IT Fundamentals Pro | AWS Cloud Foundations |
 Technical Skills
-🛡️ Security & Cybersecurity
+#🛡️ Security & Cybersecurity
 
 Network security protocols (TCP/IP, DHCP, DNS, VPN)
 Penetration testing methodologies and CTF exercises
@@ -37,19 +37,19 @@ System hardening techniques and access control enforcement
 Secure handling of sensitive data and chain-of-custody procedures
 Patch management and policy compliance
 Cloud infrastructure security (AWS fundamentals, virtualization)
-🖥️ Systems & IT Administration
+#🖥️ Systems & IT Administration
 
 User account management, group policies, and permissions
 Linux system administration (Parrot OS, Kali Linux, Ubuntu)
 Windows Server & Client management, Active Directory, Samba, Kerberos
 Remote troubleshooting and technical support (Wi-Fi, Ethernet, VPN, devices)
-📝 Programming & Scripting
+#📝 Programming & Scripting
 
 C, C++, Java, Python, Bash, PowerShell
-🌍 Languages
+#🌍 Languages
 
 Native Spanish, Fluent English
-👨‍💻 Security Labs & Competitions
+#👨‍💻 Security Labs & Competitions
 ### [OCPS Cyber Challenge](https://www.linkedin.com/posts/william-romero-pirela_hack-cybersecurity-ctf-activity-7423359165286461440-B_-r/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSV9AkBQJmlEWSSmo9R5VMU2-zVcDD8LV0) | January 2026
 Participated in a competitive cybersecurity challenge designed to simulate real world defensive and offensive security scenarios in an enterprise style network. I worked in a two person team and placed 5th out of 60 teams. The competition involved ethical hacking tasks, network defense, system hardening, and vulnerability analysis under time constraints. This experience strengthened my teamwork skills and reinforced my ability to analyze security problems quickly and methodically.
 
