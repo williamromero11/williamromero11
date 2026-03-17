@@ -72,6 +72,7 @@ Completed a hands on lab focused on identity and access management in a multi se
 ### [HACK@UCF Cyber Challenge CTF](https://hackucf.org/ctf) | February 2025  
 Competed in a scenario based Capture the Flag event focused on enterprise breach investigation and incident response. Tasks included network reconnaissance, service enumeration, and basic forensic analysis to identify compromised systems and recover data. The event emphasized structured investigation, rapid threat assessment, and working effectively under pressure.
 
+("https://williamromero11.github.io/files/Resume.pdf")
 ## 🤝 Connect with me
 
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />](https://www.linkedin.com/in/william-romero-pirela/)
