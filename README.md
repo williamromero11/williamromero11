@@ -1,6 +1,6 @@
 # Hi, I'm William Romero!
 
-[Cybersecurity Professional](https://www.linkedin.com/in/william-romero-pirela/) • [Programmer](https://github.com/williamromero11) • [Resume](https://williamromero11.github.io/files/Resume.pdf)
+[Cybersecurity Professional](https://www.linkedin.com/in/william-romero-pirela/) • [Programmer](https://github.com/williamromero11) • [Resume](https://williamromero11.github.io/files/Resume.pdf) • [Portfolio](https://williamromero11.github.io/)
 
 I am an entry level IT and cybersecurity student currently completing my degree in Information Technology. My interests focus on system administration, network security, and defensive security operations. I am looking for an internship or junior role where I can contribute to maintaining secure systems, supporting network operations, and assisting with incident response while continuing to grow my technical skills.
 
