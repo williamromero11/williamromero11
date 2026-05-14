@@ -2,7 +2,7 @@
 
 [Cybersecurity Professional](https://www.linkedin.com/in/william-romero-pirela/) • [Programmer](https://github.com/williamromero11) • [Resume](https://williamromero11.github.io/files/Resume.pdf) • [Portfolio](https://williamromero11.github.io/)
 
-I am an entry level IT and cybersecurity student currently completing my degree in Information Technology. My interests focus on system administration, network security, and defensive security operations. I am looking for an internship or junior role where I can contribute to maintaining secure systems, supporting network operations, and assisting with incident response while continuing to grow my technical skills.
+Information Technology graduate specializing in Networks and Cybersecurity from University of Central Florida, with admission into UCF’s M.S. in Cyber Security and Privacy program. Passionate about system administration, network security, and defensive security operations, with practical experience supporting IT infrastructure, Active Directory environments, troubleshooting enterprise systems, and networking technologies. Currently pursuing opportunities in IT support, systems administration, networking, or cybersecurity where I can apply technical and analytical skills in a professional environment.
 
 🎓 B.S. in Information Technology — University of Central Florida (Apr 2026).
 
