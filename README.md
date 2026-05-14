@@ -13,10 +13,10 @@ Information Technology graduate specializing in Networks and Cybersecurity from 
 ## 👨‍💻 Security Labs & Competitions
 
 ### Welcome to my portfolio
-I am an entry level IT and cybersecurity student currently completing my degree in Information Technology. My interests focus on system administration, network security, and defensive security operations. I am looking for an internship or junior role where I can contribute to maintaining secure systems, supporting network operations, and assisting with incident response while continuing to grow my technical skills.
+Recent Information Technology graduate specializing in Networks and Cybersecurity from University of Central Florida, with acceptance into the M.S. in Cyber Security and Privacy program at UCF. My interests focus on system administration, network security, and defensive security operations. I have hands-on experience with technical support, Active Directory administration, networking, and IT infrastructure support. I am seeking an entry-level IT or cybersecurity role where I can contribute to maintaining secure systems, supporting network operations, and strengthening organizational security while continuing to expand my technical expertise.
 
 ### About Me
-I am a 24 year old IT and cybersecurity student originally from Venezuela and currently living in Orlando, Florida. I have been interested in technology from a young age, particularly how systems interact and how they can be protected from misuse or attack. This interest naturally led me to building custom PCs, where I focus on reliability, performance, and security in each build.
+I am a 25 year old IT and cybersecurity professional originally from Venezuela and currently living in Orlando, Florida. I have been interested in technology from a young age, particularly how systems interact and how they can be protected from misuse or attack. This interest naturally led me to building custom PCs, where I focus on reliability, performance, and security in each build.
 
 Outside of academics, I enjoy strategy driven games such as Elden Ring, The Witcher 3, and Baldur’s Gate 3. These games reinforce skills that translate well to cybersecurity, including persistence, critical thinking, and problem solving under pressure. I am also an avid reader of epic fantasy, especially A Song of Ice and Fire by George R. R. Martin. The complexity of its world building and interconnected systems mirrors how I approach technical environments and security challenges.
 
