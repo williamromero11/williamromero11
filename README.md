@@ -23,10 +23,9 @@ Outside of academics, I enjoy strategy driven games such as Elden Ring, The Witc
 I try to apply these habits of careful analysis, attention to detail, and ethical thinking to my academic and technical work.
 
 ### 🎓 Education Journey
-University: University of Central Florida (UCF) - Pursuing B.S. in Information Technology
+University of Central Florida (UCF) - B.S. in Information Technology (Graduate)
 Specialization: Networks and Cybersecurity
-Expected Graduation: This semester
-Future Plans: I plan to pursue a Master’s degree in Cybersecurity after completing my undergraduate studies.
+Future Plans: Accepted into the University of Central Florida Cybersecurity & Privacy M.S degree for Spring 2027
 Certifications: CompTIA Security+ | AWS Cloud Security Foundations | TestOut IT Fundamentals Pro | AWS Cloud Foundations |
 Technical Skills
 ### 🛡️ Security & Cybersecurity
